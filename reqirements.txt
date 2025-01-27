@@ -1,0 +1,6 @@
+discord.py
+random
+collections
+json
+aiosqlite
+streamlit
